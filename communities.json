@@ -1,6 +1,14 @@
 {
   "data": [
     {
+  "logo": "oldmodz95/protondev.png",
+  "title": "Bot Auth.gg Request API GET | System License",
+  "quote": "",
+  "quoteSourceUrl": ".",
+  "inviteCode": "https://discord.gg/3t2568W",
+  "githubUrl": "https://github.com/OldModz95-YTB"
+},
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
